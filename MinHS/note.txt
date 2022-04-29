@@ -1,0 +1,3 @@
+EvaluateState ((PrimOpE op e2):stack) e1 venv
+means:
+[PrimOpE op e2], evaluate e1
